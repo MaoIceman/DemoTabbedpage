@@ -1,0 +1,11 @@
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\bin\Debug\netstandard2.0\DemoTabbedpage.deps.json
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\bin\Debug\netstandard2.0\DemoTabbedpage.dll
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\bin\Debug\netstandard2.0\DemoTabbedpage.pdb
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.csprojResolveAssemblyReference.cache
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.csproj.CoreCompileInputs.cache
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.App.xaml.g.cs
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.MainPage.xaml.g.cs
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.AssemblyInfoInputs.cache
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.AssemblyInfo.cs
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.dll
+D:\XamarinProyectos\DemoTabbedpage\DemoTabbedpage\DemoTabbedpage\obj\Debug\netstandard2.0\DemoTabbedpage.pdb
